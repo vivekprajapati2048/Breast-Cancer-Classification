@@ -1,0 +1,2 @@
+# Breast-Cancer-Classification
+In this problem we have to use 30 different columns and we have to predict the Stage of Breast Cancer M (Malignant) and B (Bengin). This analysis has been done using Basic Machine Learning Algorithm with detailed explanation. The data we will use for this example is the Wisconsin Breast Cancer dataset, which is download from Kaggle. https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
